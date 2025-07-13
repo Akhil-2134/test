@@ -26,6 +26,6 @@ sum.o: sum.c
 	gcc -c sum.c
 
 sort.o: sort.c
-	gcc -c s
+	gcc -c sort.c
 
 
